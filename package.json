@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@next/swc-win32-x64-msvc": "^16.0.0",
     "axios": "^1.5.0",
     "html2pdf": "^0.0.11",
     "html2pdf.js": "^0.12.1",
