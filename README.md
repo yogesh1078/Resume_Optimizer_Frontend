@@ -262,10 +262,6 @@ npm start      # Production server
 - [ ] Export optimized resume as PDF
 - [ ] ATS compatibility scoring
 
-## License
-
-MIT License - Feel free to use for learning and development!
-
 ## Credits
 
 Built as a mini version of Flashfire's internal resume optimization system.
